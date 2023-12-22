@@ -6,4 +6,4 @@ cd rizel
 
 git pull
 
-python riz_enc.py
+python cracker_enc.py
